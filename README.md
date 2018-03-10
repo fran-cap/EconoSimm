@@ -1,5 +1,5 @@
 # EconoSimm
-##A low cost Rom for SE/30 machines and compatables
+## A low cost Rom for SE/30 machines and compatables
 Simply put this allows for a custom rom to be installed inside of a se/30 to skip things like the built in RAM check.
 You can also use any extra space to fit in a small system file.
 
