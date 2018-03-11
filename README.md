@@ -14,7 +14,7 @@ You can split any rom file you make into 4 pieces using the tool of your choice 
 
 ## Note: The pcb has to be 1.2MM thick (approx) or it will not fit into a rom socket!
 
-### You can program the cips individually with a standard flash programmer and a 32 PLCC -> dip adapter
+### You can program the chips individually with a standard flash programmer and a 32 PLCC -> dip adapter
 BMOW's programmer may work but I have not tested it.
 
 #### I'm not liable if this damages your Macintosh
